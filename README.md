@@ -2,8 +2,8 @@
 
 This repository introduces Partial Differential Equation Solver using neural network that can learn resolution-invariant solution operators on Navier-Stokes equation. Solving PDE is the core subject of numerical simulation and is widely used in science and engineering, from molecular dynamics to flight simulation, and even weather forecasting.
 
-### 2D Navier-Stokes equation for a viscous, incompressible fluid in vorticity form on the unit torus
-<img src="/pino-re500.gif" width="960" height="540" />
+<h4 align='center'>2D Navier-Stokes equation for a viscous, incompressible fluid in vorticity form on the unit torus</h4>
+<img src="/pino-re500.gif" width="960" height="540" align='center'/>
 
 The notebooks serve as supplementary material to the paper:
 
