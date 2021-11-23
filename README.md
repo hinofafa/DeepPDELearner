@@ -1,4 +1,4 @@
-# PDEsByNNs
+# PDESolveByNN
 
 This repository contains three Jupyter notebooks illustrating different approaches to solve partial differential equations (PDEs) by means of neural networks (NNs).
 
