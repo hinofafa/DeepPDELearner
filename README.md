@@ -1,6 +1,6 @@
-# DeepPDESolver
+# DeepPDELearner
 
-This repository contains three Jupyter notebooks illustrating different approaches to solve partial differential equations (PDEs) by means of neural networks (NNs).
+This repository introduces Partial Differential Equation Solver using neural network that can learn resolution-invariant solution operators on Navier-Stokes equation. Solving PDE is the core subject of numerical simulation and is widely used in science and engineering, from molecular dynamics to flight simulation, and even weather forecasting.
 
 The notebooks serve as supplementary material to the paper:
 
