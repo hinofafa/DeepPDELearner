@@ -2,7 +2,7 @@
 
 This repository introduces Partial Differential Equation Solver using neural network that can learn resolution-invariant solution operators on Navier-Stokes equation. Solving PDE is the core subject of numerical simulation and is widely used in science and engineering, from molecular dynamics to flight simulation, and even weather forecasting.
 
-<img src="https://zongyi-li.github.io/neural-operator/img/pino-re500.gif" width="400" height="400" />
+<img src="/pino-re500.gif" width="960" height="540" />
 
 The notebooks serve as supplementary material to the paper:
 
